@@ -1,0 +1,6 @@
+<meta>
+<info author="NicolasEcm" name="Trabajo de leñador" version="1.0" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="utils.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>
